@@ -72,7 +72,7 @@ h1 {
 <div class="edge">
     <div class="box">
         <h1>Surfacearea of Right Cylinder</h1>
-        <h3>Charitha Kamireddy(212221040068)</h3>
+        <h3>BHUMIREDDY LAKSHMI VARDHAN REDDY (212223240016)</h3>
         <form method="POST">
             {% csrf_token %}
             <div class="formelt">
@@ -133,7 +133,8 @@ urlpatterns = [
 ![alt text](<Screenshot (4).png>)
 
 ## HOMEPAGE:
-![alt text](<Screenshot (3).png>)
+![image](https://github.com/BhumireddyLakshmivardhanreddy/MathServer/assets/148514637/8aa97b09-5cc3-4fad-a2d0-71fd32448154)
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
